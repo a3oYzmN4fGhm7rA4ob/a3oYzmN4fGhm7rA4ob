@@ -7,3 +7,4 @@ I'm a3oYzmN4fGhm7rA4ob, and most people just call me a3 because they can't reall
 - Conveyor air vents have more HP than armored conveyors, this is dumb
 - Questionably sourced ideas
 - Favorite book: US Army Manual TM 31-210
+- vark
